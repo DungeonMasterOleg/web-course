@@ -1,0 +1,117 @@
+nav {
+    background-image:url(imgs/1648275757_38-kartinkof-club-p-memi-chzhun-li-41.jpg)  ;
+    background-position:left;
+    background-size:contain;
+    background-repeat: no-repeat;
+    font-family: monospace;
+    border-bottom: 2px solid white;
+    font-size: 26px ;
+
+    
+   
+    
+}
+
+
+a {
+    color: white;
+    text-decoration: underline;
+
+}
+
+a:hover {
+
+    text-decoration: none;
+
+}
+.razor{
+    position: sticky;
+
+    top: 20px;
+}
+
+aside {
+    float: right;
+    text-align: center;
+    
+    border: 2px solid white;
+    color: white;
+    letter-spacing: 5px;
+
+
+
+    font-size: 20px;
+    height: 1500px;
+    width:300px;
+
+    font-weight: 900;
+ 
+}
+
+
+section {
+
+    background-color: black;
+    font-family: monospace;
+    font-size: 20px;
+    border: 2px solid white;
+    margin: 4px;
+    border-radius: 4px;
+    padding: 10px;
+    
+    width: auto;
+    margin: auto; 
+    max-width: 1000px;
+    color: white;
+    
+}
+
+
+
+.background {
+
+    background-color: black;
+
+}
+
+table {
+
+    border-collapse: collapse;
+   
+}
+
+td {
+
+    padding: 8px;
+
+}
+
+strong {
+
+    color: blueviolet;
+
+}
+
+body {
+   
+    text-align: center;
+    
+    
+}
+
+ul {
+    list-style: none;
+    
+}
+
+ol{
+    list-style-position:inside;
+}
+
+
+
+
+
+
+
+
