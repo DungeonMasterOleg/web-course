@@ -4,7 +4,7 @@ nav {
     background-size:contain;
     background-repeat: no-repeat;
     font-family: monospace;
-    border-bottom: 2px solid white;
+    border-bottom: 2px solid black;
     font-size: 26px ;
 
     
@@ -14,7 +14,7 @@ nav {
 
 
 a {
-    color: white;
+    color: black;
     text-decoration: underline;
 
 }
@@ -34,8 +34,8 @@ aside {
     float: right;
     text-align: center;
     
-    border: 2px solid white;
-    color: white;
+    border: 2px solid black;
+    color: black;
     letter-spacing: 5px;
 
 
@@ -51,10 +51,10 @@ aside {
 
 section {
 
-    background-color: black;
+    background-color: white;
     font-family: monospace;
     font-size: 20px;
-    border: 2px solid white;
+    border: 2px solid black;
     margin: 4px;
     border-radius: 4px;
     padding: 10px;
@@ -62,7 +62,7 @@ section {
     width: auto;
     margin: auto; 
     max-width: 1000px;
-    color: white;
+    color: black;
     
 }
 
@@ -70,7 +70,7 @@ section {
 
 .background {
 
-    background-color: black;
+    background-color: white;
 
 }
 
