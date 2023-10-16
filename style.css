@@ -3,7 +3,7 @@ nav {
     background-image:url(imgs/1648275757_38-kartinkof-club-p-memi-chzhun-li-41.jpg)  ;
     background-position:left;
     background-size:contain;
-    background-color: gray;
+    background-color:  rgb(201, 201, 201);
     border-radius: 5px;
     background-repeat: no-repeat;
     font-family: monospace;
@@ -36,7 +36,7 @@ aside {
     float: right;
     text-align: center;
 
-    background-color: gray;
+    background-color:  rgb(201, 201, 201);
     
     border-radius: 5px;
     color: black;
@@ -55,7 +55,7 @@ aside {
 
 section {
 
-    background-color: gray;
+    background-color: rgb(201, 201, 201);
     font-family: monospace;
     font-size: 20px;
     border: 2px solid black;
