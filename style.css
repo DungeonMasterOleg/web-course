@@ -6,9 +6,10 @@ nav {
     font-family: monospace;
     border-bottom: 2px solid white;
     font-size: 26px ;
+text-align: center;
+display: flex;
+justify-content: center;
 
-    
-   
     
 }
 
@@ -28,10 +29,11 @@ a:hover {
     position: sticky;
 
     top: 20px;
+    
 }
 
 aside {
-    float: right;
+   
     text-align: center;
     
     border: 2px solid white;
@@ -41,10 +43,14 @@ aside {
 
 
     font-size: 20px;
-    height: 1500px;
+    height: 2000px;
     width:300px;
 
     font-weight: 900;
+ position: absolute;
+ right: 0px;
+ top: 0px;
+ 
  
 }
 
@@ -63,6 +69,10 @@ section {
     margin: auto; 
     max-width: 1000px;
     color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
     
 }
 
@@ -95,6 +105,8 @@ strong {
 body {
    
     text-align: center;
+    display: flex;
+    flex-direction: column;
     
     
 }
@@ -107,7 +119,23 @@ ul {
 ol{
     list-style-position:inside;
 }
-
+footer{
+    background-color: black;
+    font-family: monospace;
+    font-size: 20px;
+    border: 2px solid white;
+    margin: 4px;
+    border-radius: 4px;
+    padding: 10px;
+    
+    width: auto;
+    margin: auto; 
+    min-width: 1000px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
 
 
 
